@@ -29,6 +29,12 @@
 
    [xRecyclerView](https://github.com/XRecyclerView/XRecyclerView)
    
+### 导航栏
+
+   [bottombar](https://github.com/roughike/BottomBar)
+   
+   [BottomNavigation](https://github.com/Ashok-Varma/BottomNavigation)
+   
 ### RN技术
 
    [Ant Design 的网址](https://ant.design/index-cn)
