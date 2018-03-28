@@ -25,6 +25,14 @@
 
    [个人认为很棒的轮播图](https://github.com/Jude95/RollViewPager)
    
+   [卡片式轮播图](https://github.com/rubensousa/ViewPagerCards)
+   
+   [banner](https://github.com/youth5201314/banner)
+   
+   [小圆点](https://github.com/romandanylyk/PageIndicatorView)
+   
+   [华丽的viewpager](https://github.com/Devlight/InfiniteCycleViewPager)
+   
 ### 刷新和加载更多
 
    [xRecyclerView](https://github.com/XRecyclerView/XRecyclerView)
