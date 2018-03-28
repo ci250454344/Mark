@@ -20,3 +20,11 @@
    [websocket使用](https://github.com/TooTallNate/Java-WebSocket)
    
    [dagger2的框架注入](https://www.jianshu.com/p/47c7306b2994)
+
+### 轮播图
+
+   [个人认为很棒的轮播图](https://github.com/Jude95/RollViewPager)
+   
+### 刷新和加载更多
+
+   [xRecyclerView](https://github.com/XRecyclerView/XRecyclerView)
