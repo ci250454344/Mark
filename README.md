@@ -47,6 +47,10 @@
 ### 黄油刀
 
    [butterknife](https://github.com/JakeWharton/butterknife)
+   
+### 超级吐司
+
+   [SuperToasts](https://github.com/JohnPersano/SuperToasts)
 
 ### RN技术
 
