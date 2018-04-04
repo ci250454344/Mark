@@ -1,5 +1,8 @@
 # Mark
 ### 用于记载第三库的Mark点
+### 权限库
+
+   [EasyPermissions](https://github.com/googlesamples/easypermissions)
 
 ### Zxing库
    [依赖库Zxing](https://github.com/yipianfengye/android-zxingLibrary)
