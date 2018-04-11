@@ -83,3 +83,6 @@
    [websocket使用](https://github.com/TooTallNate/Java-WebSocket)
    
    [dagger2的框架注入](https://www.jianshu.com/p/47c7306b2994)
+   
+### 第三方demo
+   [仿微信小视频,秒拍](https://github.com/motianhuo/VCameraDemo)
