@@ -86,3 +86,5 @@
    
 ### 第三方demo
    [仿微信小视频,秒拍](https://github.com/motianhuo/VCameraDemo)
+   
+   [小视频](https://github.com/mabeijianxi/small-video-record)
