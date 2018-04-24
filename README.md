@@ -85,6 +85,8 @@
    
    [dagger2的框架注入](https://www.jianshu.com/p/47c7306b2994)
    
+   [强大的下拉刷新和加载更多](https://www.cnblogs.com/foxy/p/7825073.html)
+   
 ### 第三方demo
    [仿微信小视频,秒拍](https://github.com/motianhuo/VCameraDemo)
    
