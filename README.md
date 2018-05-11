@@ -92,6 +92,8 @@
 ### 第三方demo
    [仿微信小视频,秒拍](https://github.com/motianhuo/VCameraDemo)
    
+   [漂亮的时间选择](https://github.com/PangHaHa12138/TimePackdemo)
+   
    [小视频](https://github.com/mabeijianxi/small-video-record)
    
    
