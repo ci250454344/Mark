@@ -41,6 +41,7 @@
 ### 刷新和加载更多
 
    [xRecyclerView](https://github.com/XRecyclerView/XRecyclerView)
+   [IRecyclerView](https://github.com/Aspsine/IRecyclerView)
    
 ### 导航栏
 
