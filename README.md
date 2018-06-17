@@ -37,6 +37,8 @@
    [小圆点](https://github.com/romandanylyk/PageIndicatorView)
    
    [华丽的viewpager](https://github.com/Devlight/InfiniteCycleViewPager)
+   
+   [LoopView](https://github.com/zhuxiujia/LoopView)
    
 ### 刷新和加载更多
 
