@@ -95,6 +95,8 @@
    
    [BRVAH](https://www.jianshu.com/p/b343fcff51b0)
    
+   [videoview界面透明化bug](https://blog.csdn.net/ccw0054/article/details/54948934)
+   
 ### 第三方demo
    [仿微信小视频,秒拍](https://github.com/motianhuo/VCameraDemo)
    
