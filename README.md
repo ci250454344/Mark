@@ -39,6 +39,8 @@
    [华丽的viewpager](https://github.com/Devlight/InfiniteCycleViewPager)
    
    [LoopView](https://github.com/zhuxiujia/LoopView)
+   
+   [纵向viewpage](https://github.com/kaelaela/VerticalViewPager)
    
 ### 刷新和加载更多
 
