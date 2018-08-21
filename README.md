@@ -112,11 +112,15 @@
    
    [videoview界面透明化bug](https://blog.csdn.net/ccw0054/article/details/54948934)
    
+   [自己搭科学上网](https://www.jianshu.com/p/07c7c9f79caa)
+   
 ### 第三方demo
    [仿微信小视频,秒拍](https://github.com/motianhuo/VCameraDemo)
    
    [漂亮的时间选择](https://github.com/PangHaHa12138/TimePackdemo)
    
    [小视频](https://github.com/mabeijianxi/small-video-record)
+   
+   
    
    
