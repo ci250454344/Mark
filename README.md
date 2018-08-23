@@ -114,6 +114,8 @@
    
    [自己搭科学上网](https://www.jianshu.com/p/07c7c9f79caa)
    
+   [ijkplay简书](https://www.jianshu.com/p/c5d972ab0309)
+   
 ### 第三方demo
    [仿微信小视频,秒拍](https://github.com/motianhuo/VCameraDemo)
    
