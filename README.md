@@ -116,6 +116,8 @@
    
    [ijkplay简书](https://www.jianshu.com/p/c5d972ab0309)
    
+   [电视调试](https://blog.csdn.net/jiangyou4/article/details/56088653)
+   
 ### 第三方demo
    [仿微信小视频,秒拍](https://github.com/motianhuo/VCameraDemo)
    
