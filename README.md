@@ -121,6 +121,8 @@
    
    [电视调试](https://blog.csdn.net/jiangyou4/article/details/56088653)
    
+   [直播源](https://blog.csdn.net/u013354805/article/details/50015107)
+   
 ### 第三方demo
    [仿微信小视频,秒拍](https://github.com/motianhuo/VCameraDemo)
    
