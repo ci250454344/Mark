@@ -123,6 +123,8 @@
    
    [直播源](https://blog.csdn.net/u013354805/article/details/50015107)
    
+   [华为远程真机调试](https://deveco.huawei.com/managerCenter?testType=traverse)
+   
 ### 第三方demo
    [仿微信小视频,秒拍](https://github.com/motianhuo/VCameraDemo)
    
