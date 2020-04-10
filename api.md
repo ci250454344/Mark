@@ -27,3 +27,12 @@ GET https://api.lovelive.tools/api/SweetNothings/3/Serialization/Json
     }
     
 ```
+
+
+## 成语接龙api
+
+```
+
+  http://i.itpk.cn/api.php?question=@cy[成语]
+
+```
