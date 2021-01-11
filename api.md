@@ -36,3 +36,42 @@ GET https://api.lovelive.tools/api/SweetNothings/3/Serialization/Json
   http://i.itpk.cn/api.php?question=@cy[成语]
 
 ```
+
+
+## 快递api
+
+```
+
+  https://www.kuaidi100.com/query?type=[快递公司拼音]&postid=YT5133283779527&temp=0.29594660351060065&phone=
+
+```
+
+## 实时段子
+
+```
+
+ https://api.apiopen.top/getJoke?page=1&count=2&type=video
+ 
+```
+
+通过id查段子
+
+```
+
+  https://api.apiopen.top/getSingleJoke?sid=28654780
+
+```
+
+
+## 随机笑话
+```
+
+  https://autumnfish.cn/api/joke/
+  // 自定义个数
+  https://autumnfish.cn/api/joke/list?num=3
+
+```
+
+
+
+
